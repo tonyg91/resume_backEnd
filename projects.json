@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Anime Watchlist",
+        "live": "https://ag-penguin-project-2.herokuapp.com/",
+        "git": "https://github.com/tonyg91",
+        "image": "https://i.imgur.com/KkehXAa.png"
+    },
+    {
+        "name": "Movie Trivia",
+        "live": "https://tonyg91.github.io/seir_penguin_project_1/",
+        "git": "https://github.com/tonyg91",
+        "image": "https://i.imgur.com/7foPiYW.png"
+    }
+]

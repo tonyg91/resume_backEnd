@@ -1,5 +1,23 @@
 [
     {
+        "name": "All Things Bullet Journal",
+        "live": "https://bulletjournal.netlify.app/",
+        "git": "https://github.com/tonyg91/capstone_frontend",
+        "image": ""
+    },
+    {
+        "name": "Dream Log",
+        "live": "https://dreamworldlog.netlify.app/",
+        "git": "https://github.com/tonyg91/dreamlog_frontend",
+        "image": ""
+    },
+    {
+        "name": "When Boredom Strikes, Group Project",
+        "live": "https://whenboredomstrikes.netlify.app/",
+        "git": "https://github.com/mfbrauning/boredom_app_frontend",
+        "image": ""
+    },
+    {
         "name": "Anime Watchlist",
         "live": "https://ag-penguin-project-2.herokuapp.com/",
         "git": "https://github.com/tonyg91",
